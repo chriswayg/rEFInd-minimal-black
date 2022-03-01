@@ -7,8 +7,8 @@ based systems. This is a clean and minimal black theme for it.
 
 ### Usage
 
-1. Locate your refind EFI directory. In our OpenCore [hackintosh]([hackintosh-opencore/rEFInd-BOOT-folder at master · chriswayg/hackintosh-opencore · GitHub](https://github.com/chriswayg/hackintosh-opencore/tree/master/rEFInd-BOOT-folder)) use case the refind directory is `/EFI/BOOT/` though it will depend on where you mount your ESP and where rEFInd is
-   installed. `
+1. Locate your refind EFI directory. In our OpenCore [hackintosh](https://github.com/chriswayg/hackintosh-opencore/tree/master/rEFInd-BOOT-folder) use case the refind directory is `/EFI/BOOT/` though it will depend on where you mount your ESP and where rEFInd is
+   installed.
 
 2. Clone this repository into the applicable refind directory.
 
